@@ -1,0 +1,6 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Appends context-window use to the prompt hint line as a colored bar, with an arrow recommending /compact as it fills",
+  "types": "./types/index.d.ts"
+}

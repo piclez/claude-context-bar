@@ -1,0 +1,5 @@
+{
+  "name": "claude-context-bar",
+  "owner": { "name": "Peter Dirickson" },
+  "plugins": [{ "name": "context-bar", "source": "./" }]
+}
